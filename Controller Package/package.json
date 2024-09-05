@@ -1,0 +1,13 @@
+{
+    "name": "com.fanshoo.2dcontroller",
+    "version": "1.0.1",
+    "displayName": "2D Controller",
+    "description": "2D CONTROLLER IN EASY USE",
+    "unity": "2019.1",
+    "dependencies": {
+   },
+    "author": {
+      "name": "FansHoo",
+      "email": "tortik5566s@gmail.com"
+    }
+  }
